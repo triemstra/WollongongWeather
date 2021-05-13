@@ -1,6 +1,9 @@
 Readme
 ======
 
+Web API
+=======
+
 Write a REST Web Service to present the current temperature for Wollongong in Celsius by using the REST API from http://openweathermap.org
 It should return the value on the GET /Weather?City=Wollongong route
 
